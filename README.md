@@ -5,7 +5,7 @@ Binary classification of Supernovae from ZTF data using the ParSNIP deep generat
 
 **Author:** Siméon Vareilles  
 **Supervisor:** Dr. Dominique Fouchez (CPPM)
-**Date:** March 2023
+> *This project was conducted as part of the "Modeling" course for the **Master 2 Fundamental Physics (FunPhys)** program at Aix-Marseille Université (2023).*
 
 ## Abstract
 This project performs binary classification (Type Ia vs. non-Ia) on 1,606 supernovae from the ZTF catalogue using the **ParSNIP** machine learning tool. While ParSNIP was originally designed for Pan-STARRS1 (PS1) surveys, this work adapts ZTF data to the required standardised format.
