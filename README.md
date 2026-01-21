@@ -5,7 +5,6 @@ Binary classification of Supernovae from ZTF data using the ParSNIP deep generat
 
 **Author:** Siméon Vareilles  
 **Supervisor:** Dr. Dominique Fouchez (CPPM)
-
 **Date:** March 2023
 
 ## Abstract
