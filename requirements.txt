@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+h5py
+tqdm
+astropy
+sncosmo
+lcdata
+parsnip
+# Note: 'ztfidr' and 'ztfquery' must be installed manually or added to PYTHONPATH
